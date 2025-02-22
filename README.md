@@ -1,0 +1,2 @@
+# WEB_AUT_Arturs_Vanadzins_MD1
+Testu automatizācijas pirmais mājasdarbs
