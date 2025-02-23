@@ -1,7 +1,7 @@
 # WEB_AUT_Arturs_Vanadzins_MD1
 Testu automatizācijas pirmais mājasdarbs
 
-1. Create a new git repository:
+1. Create a new git repository:\n
 a. Repository name: WEB_AUT_YOURFIRSTNAME_YOURLASTNAME_MD1
 b. Visibility: Public
 c. Check “Add a README file”
